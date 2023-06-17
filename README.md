@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaayameen&label=Profile%20views&color=0e75b6&style=flat" alt="alaayameen" /> </p>
 
+- 🔭 I’m currently working as **Senior Backend Developer**
+
 - 💬 Ask me about **Java, Spring Boot, MongoDB**
 
 - 📫 How to reach me **alaayameen2012@gmail.com**
