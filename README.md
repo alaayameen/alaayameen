@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Fullstack Software Development Manager**
 
-- 💬 Ask me about **Java, Spring Boot, MongoDB**
+- 💬 Ask me about **Java, Spring Boot, ASP.NET Core 8.0, Angular**
 
 - 📫 How to reach me **alaayameen2012@gmail.com**
 
